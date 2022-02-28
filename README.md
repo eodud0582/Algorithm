@@ -2,7 +2,7 @@
 
 ### Problem Solving with Algorithms and Data Structures Using Python
 
-![image](https://user-images.githubusercontent.com/38115693/155955415-abce3d54-99f8-4d27-937f-3dde636718aa.png)
+<img src="https://user-images.githubusercontent.com/38115693/155955415-abce3d54-99f8-4d27-937f-3dde636718aa.png" width="100%" height="370">
 
 ---
 ## Solved Problems
