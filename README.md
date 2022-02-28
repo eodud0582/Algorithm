@@ -1,6 +1,6 @@
 # Algorithm Learning and Problem Solving
 
-### Data Structures and Algorithms with Python
+### Problem Solving with Algorithms and Data Structures Using Python
 
 ![image](https://user-images.githubusercontent.com/38115693/155955415-abce3d54-99f8-4d27-937f-3dde636718aa.png)
 
